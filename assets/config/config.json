@@ -1,0 +1,9 @@
+{
+  "thingsboardApiEndpoint": "https://dashboard.senselive.io",
+  "appLinksUrlHost": "dashboard.senselive.io",
+  "appLinksUrlScheme": "https",
+  "androidApplicationId": "com.senselive.mobile",
+  "androidApplicationName": "SenseLive mobile",
+  "thingsboardOAuth2CallbackUrlScheme": "com.senselive.mobile.auth",
+  "thingsboardAndroidAppSecret": "am5BMkZGNFJwR04xbmtsOGZRVTJXRllSalM5b25lZFdGbjY1UkVzRUNqbTNXaXViZmxpU0kyZm9sWFFDaXRqZw=="
+}
